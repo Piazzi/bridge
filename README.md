@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the bridge design pattern.
+Simple project representing the bridge design pattern. For this one, i simulate a online shopping cart for two different types of user and two different payment methods. There is a bridge between the payment method class and the cart class.
 
 
 # Definition
