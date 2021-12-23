@@ -13,6 +13,8 @@ Simple project representing the bridge design pattern.
 
 Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
+![image](https://user-images.githubusercontent.com/40416044/147156093-e1e007f1-0163-4070-a654-e518541b2400.png)
+
 When a class varies often, the features of object-oriented programming become very useful because changes to a program's code can be made easily with minimal prior knowledge about the program. The bridge pattern is useful when both the class and what it does vary often. The class itself can be thought of as the abstraction and what the class can do as the implementation. The bridge pattern can also be thought of as two layers of abstraction.
 
 
